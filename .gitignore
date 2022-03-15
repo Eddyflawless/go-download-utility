@@ -1,3 +1,5 @@
 tmp/*
+!tmp/.gitkeep
 exports/*
+!exports/.gitkeep
 *.env
